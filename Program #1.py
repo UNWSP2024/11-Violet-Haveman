@@ -21,4 +21,4 @@ class Saying_GUI:
 
 
 if __name__ == '__main__':
-    saying_gui = Saying_GUI
+    saying_gui = Saying_GUI()
